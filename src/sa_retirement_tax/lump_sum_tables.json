@@ -1,0 +1,15 @@
+{
+  "_source": {
+    "url": "https://www.sars.gov.za/tax-rates/income-tax/retirement-lump-sum-benefits/",
+    "retrieved": "2026-10-29",
+    "note": "Keys are the first day of the tax year from which the table applies. The 2021-03-01 table applies to the 2022 and 2023 tax years; the 2023-03-01 table applies to the 2024, 2025, 2026 and 2027 tax years (SARS: 'No changes'). Verify against SARS before relying on these figures."
+  },
+  "withdrawal": {
+    "2021-03-01": [[0, 0, 0.0], [25000, 0, 0.18], [660000, 114300, 0.27], [990000, 203400, 0.36]],
+    "2023-03-01": [[0, 0, 0.0], [27500, 0, 0.18], [726000, 125730, 0.27], [1089000, 223740, 0.36]]
+  },
+  "retirement": {
+    "2021-03-01": [[0, 0, 0.0], [500000, 0, 0.18], [700000, 36000, 0.27], [1050000, 130500, 0.36]],
+    "2023-03-01": [[0, 0, 0.0], [550000, 0, 0.18], [770000, 39600, 0.27], [1155000, 143550, 0.36]]
+  }
+}
